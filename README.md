@@ -136,14 +136,6 @@ To evaluate ESG risk differences between male- and female-led S&P 500 firms, ide
 
 ---
 
-## 📊 Visualization Snapshot
-
-![Female CEOs ESG Analysis Dashboard](https://github.com/user-attachments/assets/your-image-id.png)
-
-*Figure: Distribution of ESG risk scores by CEO gender (Female vs Male)*
-
----
-
 ## 🏁 Conclusion
 
 Female leadership in S&P 500 firms correlates with **slightly lower ESG risks** and **higher social engagement**, reinforcing the value of diversity in executive positions.  
